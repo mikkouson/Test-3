@@ -44,14 +44,13 @@ import { useRouter } from "next/navigation";
 
 const categories = [
   "Electronics",
-  "Furniture",
-  "Clothing",
-  "Books",
-  "Sports",
-  "Automotive",
+  "Vehicles",
   "Home & Garden",
+  "Clothing & Accessories",
+  "Sports & Recreation",
+  "Books & Media",
   "Toys & Games",
-  "Other",
+  "Furniture",
 ];
 
 export function ListingForm({
